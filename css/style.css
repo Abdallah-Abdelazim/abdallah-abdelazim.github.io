@@ -19,6 +19,7 @@ body {
   color: #7f7f7f;
   color: rgba(255, 255, 255, 0.7);
   background: #262626;
+  background-image: url('../images/bg_img_2.jpg');
   height: 100%;
   position: relative;
   background-size: cover;
@@ -445,6 +446,10 @@ figure {
   .row-bottom-padded-sm {
     padding-bottom: 1em;
   }
+}
+
+#profile-img {
+  border-radius: 16px;
 }
 
 /*# sourceMappingURL=style.css.map */
