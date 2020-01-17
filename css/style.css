@@ -452,4 +452,9 @@ figure {
   border-radius: 16px;
 }
 
+#about {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /*# sourceMappingURL=style.css.map */
