@@ -520,8 +520,8 @@ figure {
 }
 
 #about {
-  text-align: justify;
-  text-justify: inter-word;
+  text-align: center;
+  font-style: oblique;
 }
 
 /*# sourceMappingURL=style.css.map */
