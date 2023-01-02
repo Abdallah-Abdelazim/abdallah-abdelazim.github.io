@@ -516,6 +516,7 @@ figure {
   border-radius: 16px;
   width: 160px;
   height: 160px;
+  object-fit: cover;
 }
 
 #about {
